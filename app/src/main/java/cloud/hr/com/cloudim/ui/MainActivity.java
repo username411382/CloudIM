@@ -11,7 +11,7 @@ import com.yzxtcp.listener.ILoginListener;
 import cloud.hr.com.cloudim.App;
 import cloud.hr.com.cloudim.R;
 
-
+//http://www.ucpaas.com/user/account
 public class MainActivity extends Activity {
 
     @Override
